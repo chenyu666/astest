@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima_girl/heima_girl.iml" filepath="$PROJECT_DIR$/heima_girl/heima_girl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banner/banner.iml" filepath="$PROJECT_DIR$/banner/banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartbj/smartbj.iml" filepath="$PROJECT_DIR$/smartbj/smartbj.iml" />
       <module fileurl="file://$PROJECT_DIR$/testont.iml" filepath="$PROJECT_DIR$/testont.iml" />
     </modules>
   </component>

@@ -1,1 +1,1 @@
-include ':app', ':heima_girl'
+include ':slidingmenu', ':banner', ':smartbj'
