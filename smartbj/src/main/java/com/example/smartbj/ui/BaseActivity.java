@@ -1,5 +1,6 @@
 package com.example.smartbj.ui;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
@@ -27,5 +28,11 @@ public abstract class BaseActivity extends AppCompatActivity  {
 
     //强制子类实现这个绑定布局文件的方法
     public abstract int getLayoutResId() ;
+
+    public void navigateTo(Class activity) {
+        Intent intent = new Intent(this,activity);
+        startActivity(intent);
+        finish();
+    }
 
 }
